@@ -1,0 +1,45 @@
+div {
+
+	margin: auto;
+	margin-left: -2px;
+	padding: 100px;
+	width: 750px;
+	height: 200px;
+	border: 2px solid silver;
+}
+
+.mediano p {
+
+	text-align: center;
+	font-size: 8px;
+	margin-top: -25px;
+}
+
+.mediano {
+
+	margin: auto;
+	margin-left: -97px;
+	margin-top: -93px;
+	padding: 50px;
+	width: 95px;
+	height: 60px;
+	border: 10px solid yellow;
+}
+
+.chico {
+
+	margin: auto;
+	margin-bottom: 50px;
+	margin-top: -10px;
+	padding: 50px;
+	width: 95px;
+	height: 60px;
+	border: 10px solid yellow;
+    text-align: left;
+}
+
+.chico p {
+	margin-top: -15px;
+	text-align: left;
+	font-size: 8px;
+}
